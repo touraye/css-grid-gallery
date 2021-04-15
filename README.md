@@ -6,7 +6,24 @@ CSS web base gallery
 * Some of the images are landscape, some are portrait and some are square base images
 * Used unsplash API for random images at every page loads
 
+
+
+## Preview 
+
+Desktop:
+
+<img src="./assets/images/desktop.png"/>
+
+
+
+Mobile
+
+<img src="./assets/images/mobile.png"/>
+
+
+
 ## Build With:
+
 * HTML
 * CSS
 
